@@ -25,7 +25,7 @@ Below are examples of input and output images processed during this project:
 ![Input Image 1](corresponding_points.jpg)  
 
 ### Rectified Images with Many Corresponding Points 
-![Rectified Image 1](rectified1.jpg)    
+![Rectified Image 1](rectified_image_with_corresponding_points.jpg)    
 
 ### 3D Reconstruction Output  
-![3D Reconstruction](reconstruction.jpg)  
+![3D Reconstruction](3d_reconstruction.jpg)  
