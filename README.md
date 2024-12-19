@@ -21,13 +21,11 @@ This repository implements **3D Projective Reconstruction** from stereo images. 
 ## 📷 Images  
 Below are examples of input and output images processed during this project:  
 
-### Input Stereo Images  
-![Input Image 1](input1.jpg)  
-![Input Image 2](input2.jpg)  
+### Input Images with Initial Corresponding Points  
+![Input Image 1](corresponding_points.jpg)  
 
-### Rectified Images  
-![Rectified Image 1](rectified1.jpg)  
-![Rectified Image 2](rectified2.jpg)  
+### Rectified Images with Many Corresponding Points 
+![Rectified Image 1](rectified1.jpg)    
 
 ### 3D Reconstruction Output  
 ![3D Reconstruction](reconstruction.jpg)  
